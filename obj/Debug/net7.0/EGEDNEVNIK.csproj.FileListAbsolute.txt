@@ -1,0 +1,14 @@
+C:\Users\Fotters\source\repos\EGEDNEVNIK\bin\Debug\net7.0\EGEDNEVNIK.exe
+C:\Users\Fotters\source\repos\EGEDNEVNIK\bin\Debug\net7.0\EGEDNEVNIK.deps.json
+C:\Users\Fotters\source\repos\EGEDNEVNIK\bin\Debug\net7.0\EGEDNEVNIK.runtimeconfig.json
+C:\Users\Fotters\source\repos\EGEDNEVNIK\bin\Debug\net7.0\EGEDNEVNIK.dll
+C:\Users\Fotters\source\repos\EGEDNEVNIK\bin\Debug\net7.0\EGEDNEVNIK.pdb
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\EGEDNEVNIK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\EGEDNEVNIK.AssemblyInfoInputs.cache
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\EGEDNEVNIK.AssemblyInfo.cs
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\EGEDNEVNIK.csproj.CoreCompileInputs.cache
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\EGEDNEVNIK.dll
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\refint\EGEDNEVNIK.dll
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\EGEDNEVNIK.pdb
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\EGEDNEVNIK.genruntimeconfig.cache
+C:\Users\Fotters\source\repos\EGEDNEVNIK\obj\Debug\net7.0\ref\EGEDNEVNIK.dll
